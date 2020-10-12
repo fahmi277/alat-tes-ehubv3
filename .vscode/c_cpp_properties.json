@@ -4,7 +4,9 @@
             "name": "Win32",
             "includePath": [
                 "C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages\\STM32\\tools\\**",
-                "C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\**"
+                "C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\**",
+                "C:\\Users\\SangengoN\\Documents\\Arduino\\libraries",
+                "C:\\Users\\SangengoN\\Documents\\Arduino\\libraries\\CAN-BUS_Shield"
             ],
             "forcedInclude": [
                 "C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\cores\\arduino\\Arduino.h"

@@ -1,5 +1,7 @@
-d:\Sundaya\File\ JS\ Pro\Ehub\ V3\code\EHUB\ V3\ tes\ board\tesBoard\bin\sketch\tesBoard.ino.cpp.o: \
- d:\Sundaya\File\ JS\ Pro\Ehub\ V3\code\EHUB\ V3\ tes\ board\tesBoard\bin\sketch\tesBoard.ino.cpp \
+d:\Sundaya\File\ JS\ Pro\Ehub\ V3\code\EHUB\ V3\ tes\ board\tesBoard\bin\sketch\mcp_can.cpp.o: \
+ d:\Sundaya\File\ JS\ Pro\Ehub\ V3\code\EHUB\ V3\ tes\ board\tesBoard\bin\sketch\mcp_can.cpp \
+ d:\Sundaya\File\ JS\ Pro\Ehub\ V3\code\EHUB\ V3\ tes\ board\tesBoard\bin\sketch\mcp_can.h \
+ d:\Sundaya\File\ JS\ Pro\Ehub\ V3\code\EHUB\ V3\ tes\ board\tesBoard\bin\sketch\mcp_can_dfs.h \
  C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\cores\arduino/Arduino.h \
  C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\cores\arduino/wiring.h \
  C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\cores\arduino/avr/dtostrf.h \
@@ -92,16 +94,7 @@ d:\Sundaya\File\ JS\ Pro\Ehub\ V3\code\EHUB\ V3\ tes\ board\tesBoard\bin\sketch\
  C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\cores\arduino/WMath.h \
  C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\cores\arduino/pins_arduino.h \
  C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\cores\arduino/stm32/PinNames.h \
- C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\libraries\Wire\src/Wire.h \
- C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\cores\arduino/Stream.h \
- C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\libraries\Wire\src/utility/twi.h \
- C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\cores\arduino/stm32/stm32_def.h \
- C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\cores\arduino/stm32/PeripheralPins.h \
- C:\Users\SangengoN\Documents\Arduino\libraries\LiquidCrystal_I2C/LiquidCrystal_I2C.h \
- C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\cores\arduino/Print.h \
- C:\Users\SangengoN\Documents\Arduino\libraries\Adafruit_NeoPixel/Adafruit_NeoPixel.h \
- C:\Users\SangengoN\Documents\Arduino\libraries\SimpleTimer-master/SimpleTimer.h \
- d:\Sundaya\File\ JS\ Pro\Ehub\ V3\code\EHUB\ V3\ tes\ board\tesBoard\bin\sketch\mcp_can.h \
- d:\Sundaya\File\ JS\ Pro\Ehub\ V3\code\EHUB\ V3\ tes\ board\tesBoard\bin\sketch\mcp_can_dfs.h \
  C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\libraries\SPI\src/SPI.h \
- C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\libraries\SPI\src/utility/spi_com.h
+ C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\libraries\SPI\src/utility/spi_com.h \
+ C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\cores\arduino/stm32/stm32_def.h \
+ C:\Users\SangengoN\AppData\Local\Arduino15\packages\STM32\hardware\stm32\1.9.0\cores\arduino/stm32/PeripheralPins.h
